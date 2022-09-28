@@ -26,3 +26,7 @@ div{
     left: 87px;
     top: 272px;
 }
+a{
+    text-decoration: none;
+    color: #1F9440
+}
